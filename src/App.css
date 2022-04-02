@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+div {
+  margin: 5px;
+  display: flex;  
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: stretch;
+}
+
+img {
+  margin: 5px;
+}
